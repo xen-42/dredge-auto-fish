@@ -1,0 +1,8 @@
+{
+	"Name": "Auto Fish",
+	"ModGUID": "xen.AutoFish",
+	"Version": "0.0.1",
+	"ModAssembly": "AutoFish.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "AutoFish.Loader/Initialize"
+}
