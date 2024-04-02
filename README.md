@@ -1,3 +1,3 @@
 # DREDGE Auto Fish
 
-Skips the fishing mini-game.
+Skips the fishing/dredging mini-games.
